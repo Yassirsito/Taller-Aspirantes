@@ -240,6 +240,6 @@ Carpeta `uploaded_files/` con las fotografías guardadas con nombre aleatorio.
 
 |                |                                |
 | -------------- | ------------------------------ |
-| **Nombre**     | Irving S. Cruz                 |
+| **Nombre**     | Moises Cordero                 |
 | **Curso**      | Desarrollo Web                 |
 | **Instructor** | Ing. Irina Fong                |
